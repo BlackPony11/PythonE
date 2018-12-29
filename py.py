@@ -1,3 +1,2 @@
-println("Друг")
-//fdfdfdfdf
-print(1111)
+import sys
+print(sys.version)
